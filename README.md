@@ -1,4 +1,4 @@
-## Hi there 👋
+## ⚡ claude coding good
 
 <!--
 **Jay-0216/jay-0216** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
